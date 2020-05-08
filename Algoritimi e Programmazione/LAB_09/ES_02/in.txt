@@ -1,0 +1,3 @@
+Name:Pippo - Points: 2.8
+Name:Pluto - Points: 3.0
+Name:Paperino - Points: 9.7

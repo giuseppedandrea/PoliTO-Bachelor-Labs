@@ -1,0 +1,9 @@
+8
+178.1.192.33 user1 10/09/2016:13:12:55 GET index.html 200
+34.52.1.37 user2 11/09/2016:12:09:42 GET private.html 401
+178.1.192.33 user1 07/10/2016:16:34:36 GET intranet/login 401
+178.1.192.38 user3 19/09/2016:00:57:01 GET extranet/login 200
+126.189.12.12 user4 30/08/2016:11:11:10 GET services/list 200
+130.192.165.91 user1 01/09/2016:11:01:12 GET services/list 200
+130.192.165.92 user2 31/08/2016:03:29:07 GET admin/main.html 401
+178.1.192.33 user1 14/08/2016:21:51:59 GET admin/main.html 200

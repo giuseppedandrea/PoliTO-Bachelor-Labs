@@ -1,0 +1,7 @@
+Name: Pippo - Points: 4.04
+Name: Pluto - Points: 1.76
+Name: Paperino - Points: 9.70
+Name: d - Points: 10.00
+Name: c - Points: 10.00
+Name: b - Points: 10.00
+Name: a - Points: 10.00
