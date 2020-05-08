@@ -1,0 +1,22 @@
+-- Esercitazione 3 (II parte)
+
+-- Query 1
+UPDATE ISTRUTTORE
+SET Telefono='+390112333551'
+WHERE CodFisc='KHNJHN81E30C455Y';
+
+-- Query 2
+UPDATE PROGRAMMA
+SET Sala='S4'
+WHERE Sala='S2';
+
+-- Query 3
+DELETE FROM CORSI
+WHERE CodC=(SELECT CodC
+            FROM PROGRAMMA
+            GROUP BY CodC
+            HAVING COUNT(*)=1);
+
+-- Query 4
+DELETE FROM ISTRUTTORE
+WHERE CodFisc='SMTPLA80N31B791Z';
